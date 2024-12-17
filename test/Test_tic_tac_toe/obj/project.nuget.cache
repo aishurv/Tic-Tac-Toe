@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P6+Yl1lWgaw=",
+  "dgSpecHash": "WtuOQulDe1A=",
   "success": true,
-  "projectFilePath": "D:\\tic_tac_toe\\test\\Test_tic_tac_toe\\Test_tic_tac_toe.csproj",
+  "projectFilePath": "C:\\tic_tac_toe\\test\\Test_tic_tac_toe\\Test_tic_tac_toe.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wand_Lax\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Wand_Lax\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
