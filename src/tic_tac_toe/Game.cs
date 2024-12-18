@@ -1,16 +1,16 @@
 ﻿using System;
 
-public class tic_tac_toe
+public class GameTic
 {
 	char [,] board;
-	public tic_tac_toe()
+	public GameTic()
 	{
 		board = new char[,] { 
 		{' ', ' ', ' ',},
 		{' ', ' ', ' ',},
 		{' ', ' ', ' ',} 
 		};
-		int player = 0;
+		//int player = 0;
 	}
 	public void  drawboard()
 	{
