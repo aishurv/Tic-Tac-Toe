@@ -5,7 +5,7 @@ namespace Test_tic_tac_toe
         [Fact]
         public void Test1()
         {
-
+            GameTic g1 = new GameTic();
         }
     }
 }
