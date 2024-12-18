@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Test_tic_tac_toe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdf34e1b19626680c0e2723e4418126a0c69583f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a510622e613f26c8339ab4bde2e9c91c212b525a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Test_tic_tac_toe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Test_tic_tac_toe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
